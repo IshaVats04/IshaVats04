@@ -7,7 +7,7 @@
 ---
 ## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isha_vats04&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaVats04&theme=react-dark&hide_border=true)
 ## 💼 About Me
 
 Detail-oriented full-stack developer with strong foundations in JavaScript, React, Python, MySQL, HTML, and CSS.  
