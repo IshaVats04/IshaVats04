@@ -17,7 +17,9 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ## 🔥 Daily Problem Solving Streak
 
-<img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&hide=ranking,contest,solution" />
+<p align="center">
+  <img width="100%" src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&hide=ranking,contest,solution,difficulty,stats" />
+</p>
 
 ---
 
