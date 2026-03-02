@@ -10,9 +10,9 @@
 
 ## 🔥 Daily Problem Solving Streak
 
-## 🔥 LeetCode Activity
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&hide=ranking,contest,solution)
+
+<img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&hide=ranking,contest,solution" />
 ---
 
 ## 🛠️ Tech Stack
