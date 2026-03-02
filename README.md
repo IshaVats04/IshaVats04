@@ -15,11 +15,10 @@ Focused on building secure, scalable, and maintainable applications with clean a
 Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
-## 🔥 Daily Problem Solving Streak
-## 🎮 Pacman Contribution Game
 
-![Pacman](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
- 
+## 🏆 Achievements
+
+![trophy](https://github-profile-trophy.vercel.app/?username=isha_vats04&theme=darkhub&no-frame=true&margin-w=15)
 
 ## 🛠️ Tech Stack
 
