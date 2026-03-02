@@ -8,7 +8,7 @@
 
 ## 🔥 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/isha_vats04?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap)
 
 ---
 
