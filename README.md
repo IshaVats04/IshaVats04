@@ -1,4 +1,5 @@
 # Hi 👋 I'm Isha Rai
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 🎓 B.Tech CSE | Galgotias University (CGPA: 8.22)  
 💻 Full-Stack Developer | Aspiring Software Development Engineer  
@@ -15,12 +16,10 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
 ## 🔥 Daily Problem Solving Streak
-## 🐍 Contribution Snake
+## 🎮 Pacman Contribution Game
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-<div style="overflow: hidden; height: 180px;">
-  <img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap" width="100%">
-</div>
+![Pacman](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+ 
 
 ## 🛠️ Tech Stack
 
