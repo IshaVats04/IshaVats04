@@ -5,14 +5,9 @@
 📍 Greater Noida, Uttar Pradesh  
 
 ---
-## 🎮 Play Rock Paper Scissors
+## 📊 Contribution Graph
 
-Click and test your luck 👇
-
-[🪨 Rock](https://www.random.org/)
-[📄 Paper](https://www.random.org/)
-[✂️ Scissors](https://www.random.org/)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isha_vats04&theme=react-dark&hide_border=true)
 ## 💼 About Me
 
 Detail-oriented full-stack developer with strong foundations in JavaScript, React, Python, MySQL, HTML, and CSS.  
@@ -21,10 +16,6 @@ Focused on building secure, scalable, and maintainable applications with clean a
 Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
-
-## 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=isha_vats04&theme=darkhub&no-frame=true&margin-w=15)
 
 ## 🛠️ Tech Stack
 
