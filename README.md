@@ -1,8 +1,6 @@
+# Hi 👋 I'm Isha Rai
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Isha%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# Hi 👋 I'm Isha Rai
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 🎓 B.Tech CSE | Galgotias University (CGPA: 8.22)  
 💻 Full-Stack Developer | Aspiring Software Development Engineer  
 📍 Greater Noida, Uttar Pradesh  
@@ -12,11 +10,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IshaVats04&theme=react-dark&hide_border=true)
 ## 💼 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 Detail-oriented full-stack developer with strong foundations in JavaScript, React, Python, MySQL, HTML, and CSS.  
 Focused on building secure, scalable, and maintainable applications with clean architecture and modern development practices.  
 
 Passionate about problem-solving, DSA, and writing production-quality code.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 ---
 
