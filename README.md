@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Isha Rai
 
-<!--
-**IshaVats04/IshaVats04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Software Development Engineer (SDE)  
+🚀 Focused on DSA, Problem Solving & System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/isha_vats04?theme=dark&font=Baloo&ext=contest)
+
+---
+
+## 🛠️ Tech Stack
+- Java
+- Data Structures & Algorithms
+- SQL & DBMS
+- Computer Networks
+- Python
+
+---
+
+## 📌 Current Focus
+- Solving pattern-based DSA problems
+- Preparing for SDE internships
+- Strengthening problem-solving skills
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (add your link here)
+- 📧 Email: (add your email here)
