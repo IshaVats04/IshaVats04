@@ -14,9 +14,9 @@ Focused on building secure, scalable, and maintainable applications with clean a
 Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
-
 ## 🔥 Daily Problem Solving Streak
-<img src="https://leetcard.jacoblin.cool/isha_vats04?ext=heatmap&theme=dark&border=0" width="100%">
+
+<img src="https://leetcode-heatmap.vercel.app/api?username=isha_vats04&theme=dark" width="100%" />
 
 ## 🛠️ Tech Stack
 
