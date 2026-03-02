@@ -16,9 +16,7 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 ---
 
 ## 🔥 Daily Problem Solving Streak
-
-<img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&animation=false" width="100%">
----
+<img src="https://leetcard.jacoblin.cool/isha_vats04?ext=heatmap&theme=dark&border=0" width="100%">
 
 ## 🛠️ Tech Stack
 
