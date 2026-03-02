@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Isha%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # Hi 👋 I'm Isha Rai
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 🎓 B.Tech CSE | Galgotias University (CGPA: 8.22)  
 💻 Full-Stack Developer | Aspiring Software Development Engineer  
 📍 Greater Noida, Uttar Pradesh  
@@ -43,8 +46,7 @@ A responsive legal service platform built with React and modern UI practices.
 - Focused on clean architecture & scalability
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Isha%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
 
 ## 🏆 Achievements
 - Top Performer — Code & Decode Contest  
