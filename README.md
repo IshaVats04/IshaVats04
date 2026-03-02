@@ -1,4 +1,5 @@
-# <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Isha%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+# Hey ! I am Isha Rai
+## <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Isha%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 🎓 B.Tech CSE | Galgotias University (CGPA: 8.22)  
 💻 Full-Stack Developer | Aspiring Software Development Engineer  
 📍 Greater Noida, Uttar Pradesh  
