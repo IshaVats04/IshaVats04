@@ -1,11 +1,17 @@
-# Hi 👋 I'm Isha Rai
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Aspiring+Software+Development+Engineer;DSA+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
-
+# Hi 👋 I'm Isha Rai
 🎓 B.Tech CSE | Galgotias University (CGPA: 8.22)  
 💻 Full-Stack Developer | Aspiring Software Development Engineer  
 📍 Greater Noida, Uttar Pradesh  
 
 ---
+## 🎮 Play Rock Paper Scissors
+
+Click and test your luck 👇
+
+[🪨 Rock](https://www.random.org/)
+[📄 Paper](https://www.random.org/)
+[✂️ Scissors](https://www.random.org/)
 
 ## 💼 About Me
 
