@@ -15,10 +15,9 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
 ## 🔥 Daily Problem Solving Streak
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://streak-stats.demolab.com?user=isha_vats04&theme=dark)
-
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 <div style="overflow: hidden; height: 180px;">
   <img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap" width="100%">
 </div>
