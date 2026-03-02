@@ -17,8 +17,7 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ## 🔥 Daily Problem Solving Streak
 
-<img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&animation=false&border=0" width="100%">
-
+<img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap&animation=false" width="100%">
 ---
 
 ## 🛠️ Tech Stack
@@ -36,7 +35,17 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 ### AI Text Classification System
 - Achieved 97.8% accuracy using TF-IDF + Logistic Regression  
 - Built Flask REST APIs for real-time and batch inference  
-- Developed React dashboard with NLP preprocessing pipeline  
+- Developed React dashboard with NLP preprocessing pipeline
+
+## 🚀 Featured Project
+
+### 🏛️ AdvocateHub
+A responsive legal service platform built with React and modern UI practices.
+
+- Built reusable UI components
+- Designed mobile-friendly layouts
+- Integrated frontend with backend APIs
+- Focused on clean architecture & scalability
 
 ---
 
