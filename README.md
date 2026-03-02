@@ -8,7 +8,9 @@
 
 ## 🔥 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap)
+## 🔥 Daily Problem Solving Streak
+
+<img src="https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&ext=heatmap&hide=ranking,contest,solution" />
 
 ---
 
