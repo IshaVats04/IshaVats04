@@ -15,6 +15,9 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ---
 ## 🔥 Daily Problem Solving Streak
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=isha_vats04&theme=dark)
 
 <div style="overflow: hidden; height: 180px;">
   <img src="https://leetcard.jacoblin.cool/isha_vats04?theme=dark&ext=heatmap" width="100%">
@@ -37,8 +40,6 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 - Built Flask REST APIs for real-time and batch inference  
 - Developed React dashboard with NLP preprocessing pipeline
 
-## 🚀 Featured Project
-
 ### 🏛️ AdvocateHub
 A responsive legal service platform built with React and modern UI practices.
 
@@ -58,5 +59,5 @@ A responsive legal service platform built with React and modern UI practices.
 
 ## 📫 Connect With Me
 📧 ishavats04@gmail.com  
-🔗 LinkedIn  
-💻 GitHub
+🔗 LinkedIn |🔗 https://www.linkedin.com/in/isha-rai-178891288/  
+💻 GitHub:|https://github.com/IshaVats04 
