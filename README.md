@@ -1,10 +1,10 @@
 # Isha Rai
 
 
-### 
-🎓 B.Tech CSE | Galgotias University (CGPA: 8.36)  
-💻 Frontend Developer | Aspiring Software Development Engineer  
-📍 Greater Noida, Uttar Pradesh  
+
+>🎓 B.Tech CSE | Galgotias University (CGPA: 8.36)  
+>💻 Frontend Developer | Aspiring Software Development Engineer  
+>📍 Greater Noida, Uttar Pradesh  
 
 ---
 ## 📊 Contribution Graph
