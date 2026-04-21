@@ -13,7 +13,7 @@
 
 ## 💼 About Me 
 
-Detail-oriented full-stack developer with strong foundations in JavaScript, React, Python, MySQL, HTML, and CSS.  
+Detail-oriented frontend developer with strong foundations in JavaScript, Tailwind CSS, Java, MySQL, HTML, and CSS.  
 Focused on building secure, scalable, and maintainable applications with clean architecture and modern development practices.  
 
 Passionate about problem-solving, DSA, and writing production-quality code.
@@ -26,7 +26,7 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 
-**Languages:** JavaScript, Python, SQL  
+**Languages:** JavaScript, Java, SQL  
 **Frontend:** React, Tailwind CSS  
 **Backend:** Python, MySQL  
 **CS Fundamental:** OOPS, DBMS 
@@ -36,10 +36,11 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 
 ## 🚀 Projects
 
-### AI Text Classification System
-- Achieved 97.8% accuracy using TF-IDF + Logistic Regression  
-- Built Flask REST APIs for real-time and batch inference  
-- Developed React dashboard with NLP preprocessing pipeline
+### SafeTripDeals
+-A responsive multi-page travel website featuring Home, About, FAQ, Booking, and Contact pages.  
+-Built using HTML, CSS, and JavaScript with modern UI design, interactive elements, and form validation.  
+-Focused on clean structure, user-friendly navigation, and maintainable code organization.
+
 
 ### 🏛️ AdvocateHub
 A responsive legal service platform built with React and modern UI practices.
