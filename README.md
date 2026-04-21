@@ -37,7 +37,7 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 ## 🚀 Projects
 
 ### SafeTripDeals
--A responsive multi-page travel website featuring Home, About, FAQ, Booking, and Contact pages.  
+A responsive multi-page travel website featuring Home, About, FAQ, Booking, and Contact pages.  
 -Built using HTML, CSS, and JavaScript with modern UI design, interactive elements, and form validation.  
 -Focused on clean structure, user-friendly navigation, and maintainable code organization.
 
