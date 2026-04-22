@@ -29,7 +29,7 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 **Languages:** Java, SQL  
 **Frontend:** JavaScript, Tailwind CSS  
 **Backend:** Java, MySQL  
-**CS Fundamental:** OOPS, DBMS 
+**CS Fundamental:** OOPS,DBMS 
 **Tools:** Git, GitHub, VS Code  
 
 ---
