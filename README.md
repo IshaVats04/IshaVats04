@@ -26,9 +26,9 @@ Passionate about problem-solving, DSA, and writing production-quality code.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=150&section=header&text=Code.%20Build.%20Scale.&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
 
-**Languages:** JavaScript, Java, SQL  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Python, MySQL  
+**Languages:** Java, SQL  
+**Frontend:** JavaScript, Tailwind CSS  
+**Backend:** Java, MySQL  
 **CS Fundamental:** OOPS, DBMS 
 **Tools:** Git, GitHub, VS Code  
 
