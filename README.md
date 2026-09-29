@@ -9,7 +9,7 @@
 
 ### 👋 Hey, I'm Isha Rai!
 
-🎓 **Full Stack AI Developer ||Final Year Student|| Galgotias University||**  
+🎓 **Full Stack AI Developer ||Final Year Student|| Galgotias University**  
 🤖 **AI/ML • GenAI • LLMs • NLP • AI Agents • Automation**  
 💻 **Full-Stack Developer** | MERN • Java • Spring Boot  
 📊 Building **data-driven applications, APIs & intelligent workflows**  
