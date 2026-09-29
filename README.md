@@ -65,6 +65,10 @@
 ▸ ⚙️ Creating automation workflows that turn repetitive tasks into smart solutions  
 ▸ 🤝 Open to collaborating on AI/ML, Full-Stack, Backend & Automation projects  
 
+### ✍️  Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 💬 Let's Talk
 
 **AI/ML • Full-Stack Development • AI Agents • Automation • Backend • DSA**
@@ -76,6 +80,9 @@
 ✨ **Build • Automate • Experiment • Ship** 🚀
 
 </div>
+
+
+
 
 # 📊 GitHub Stats
 
@@ -103,9 +110,6 @@
 </tr>
 </table>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 
