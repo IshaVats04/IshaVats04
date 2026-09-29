@@ -14,7 +14,7 @@
 💻 **Full-Stack Developer | MERN • Java • Spring Boot**  
 📊 **Building data-driven applications, APIs & intelligent workflows**  
 🚀 **Turning real-world problems into practical software & AI-powered products**
- do the spacing between photo and text little less
+ 
 
 ---
 
