@@ -1,58 +1,49 @@
 # 💫 About Me:
 
-<table>
-<tr>
+<div align="center">
 
-<td width="70%" valign="top">
+<img src="./tech-girl.png"
+     width="460"
+     height="460"
+     style="border-radius:50%; object-fit:cover;"
+     alt="Isha Rai coding"/>
+### 👋 Hey, I'm Isha Rai!
 
-👋 Hey, I'm Isha!<br><br>
+🎓 **Final-year Computer Science Engineering student @ Galgotias University**  
+🤖 **AI/ML • GenAI • LLMs • NLP • AI Agents • Automation**  
+💻 **Full-Stack Developer** | MERN • Java • Spring Boot  
+📊 Building **data-driven applications, APIs & intelligent workflows**  
+🚀 Turning real-world problems into **practical software & AI-powered products**
 
-🎓 Final-year Computer Science Engineering student @ Galgotias University<br><br>
+</div>
 
-💻 Full-Stack Developer with experience across MERN, Java & Spring Boot<br><br>
+---
 
-🤖 Passionate about AI/ML, AI Agents & intelligent automation<br><br>
+### 🌱 Currently
 
-📊 Building data-driven applications, APIs & automation workflows<br><br>
+▸ 🔭 Building AI-powered products, full-stack applications & automation workflows  
+▸ 🌱 Exploring GenAI, LLMs, NLP, AI Agents & intelligent automation  
+▸ ⚙️ Creating automation workflows that turn repetitive tasks into smart solutions  
+▸ 🤝 Open to collaborating on AI/ML, Full-Stack, Backend & Automation projects  
 
-🚀 Turning real-world problems into practical software & AI-powered products<br><br>
+### 🛠️ What I Work With
 
-╭──────────────────────────────────────────────╮<br>
-│                 🌱 Currently                 │<br>
-╰──────────────────────────────────────────────╯<br><br>
+▸ 💻 **Development:** MERN • Java • Spring Boot • Python • JavaScript • SQL  
+▸ 🤖 **AI:** AI/ML • GenAI • LLMs • NLP • AI Agents  
+▸ 🔗 **Engineering:** REST APIs • Data Analysis • Automation • Playwright  
+▸ 🧠 **Core:** DSA • Problem Solving • Backend Development  
 
-▸ 🔭 Building AI-powered products, full-stack applications & automation workflows<br>
-▸ 🌱 Exploring GenAI, LLMs, NLP, AI Agents & intelligent automation<br>
-▸ ⚙️ Creating automation workflows that turn repetitive tasks into smart solutions<br>
-▸ 🤝 Open to collaborating on AI/ML, Full-Stack, Backend & Automation projects<br><br>
+### 💬 Let's Talk
 
-╭──────────────────────────────────────────────╮<br>
-│                 🛠️ Tech Stack               │<br>
-╰──────────────────────────────────────────────╯<br><br>
+**AI/ML • Full-Stack Development • AI Agents • Automation • Backend • DSA**
 
-▸ 💻 MERN • Java • Spring Boot • Python • JavaScript • SQL<br>
-▸ 🤖 AI/ML • GenAI • LLMs • NLP • AI Agents<br>
-▸ 🔗 REST APIs • Data Analysis • Automation • Playwright<br><br>
+<br>
 
-╭──────────────────────────────────────────────╮<br>
-│                  💬 Let's Talk               │<br>
-╰──────────────────────────────────────────────╯<br><br>
+<div align="center">
 
-▸ AI/ML • Full-Stack Development • Java • MERN<br>
-▸ Automation • AI Agents • DSA<br><br>
+✨ **Build • Automate • Experiment • Ship** 🚀
 
-✨ Build • Automate • Experiment • Ship 🚀
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./tech-girl.png" width="100%" alt="Girl coding"/>
-
-</td>
-
-</tr>
-</table>              ✨ Build • Automate • Experiment • Ship 🚀
+</div>
 
 
 ## 🌐 Socials:
