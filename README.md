@@ -7,15 +7,14 @@
      height="660"
      alt="Isha Rai coding"/>
 
-<h3>👋 Hey, I'm Isha Rai!</h3>
+### 👋 Hey, I'm Isha Rai!
 
 🎓 **Full Stack AI Developer || Final Year Student || Galgotias University**  
 🤖 **AI/ML • GenAI • LLMs • NLP • AI Agents • Automation**  
 💻 **Full-Stack Developer | MERN • Java • Spring Boot**  
 📊 **Building data-driven applications, APIs & intelligent workflows**  
 🚀 **Turning real-world problems into practical software & AI-powered products**
-
-</div>
+ do the spacing between photo and text little less
 
 ---
 
