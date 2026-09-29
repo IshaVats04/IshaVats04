@@ -1,5 +1,58 @@
 # 💫 About Me:
-👋 Hey, I'm Isha!<br><br>🎓 Final-year Computer Science Engineering student @ Galgotias University<br>💻 Full-Stack Developer with experience across MERN, Java & Spring Boot<br>🤖 Passionate about AI/ML, AI Agents & intelligent automation<br>📊 Building data-driven applications, APIs & automation workflows<br>🚀 Turning real-world problems into practical software & AI-powered products<br><br><br>╭──────────────────────────────────────────────╮<br>│                 🌱 Currently                 │<br>╰──────────────────────────────────────────────╯<br><br>▸ 🔭 Building AI-powered products, full-stack applications & automation workflows<br>▸ 🌱 Exploring GenAI, LLMs, NLP, AI Agents & intelligent automation<br>▸ ⚙️ Creating automation workflows that turn repetitive tasks into smart solutions<br>▸ 🤝 Open to collaborating on AI/ML, Full-Stack, Backend & Automation projects<br><br><br>╭──────────────────────────────────────────────╮<br>│                 🛠️ Tech Stack               │<br>╰──────────────────────────────────────────────╯<br><br>▸ 💻 MERN • Java • Spring Boot • Python • JavaScript • SQL<br>▸ 🤖 AI/ML • GenAI • LLMs • NLP • AI Agents<br>▸ 🔗 REST APIs • Data Analysis • Automation • Playwright<br><br><br>╭──────────────────────────────────────────────╮<br>│                  💬 Let's Talk               │<br>╰──────────────────────────────────────────────╯<br><br>▸ AI/ML • Full-Stack Development • Java • MERN<br>▸ Automation • AI Agents • DSA<br><br><br>                 ✨ Build • Automate • Experiment • Ship 🚀
+
+<table>
+<tr>
+
+<td width="70%" valign="top">
+
+👋 Hey, I'm Isha!<br><br>
+
+🎓 Final-year Computer Science Engineering student @ Galgotias University<br><br>
+
+💻 Full-Stack Developer with experience across MERN, Java & Spring Boot<br><br>
+
+🤖 Passionate about AI/ML, AI Agents & intelligent automation<br><br>
+
+📊 Building data-driven applications, APIs & automation workflows<br><br>
+
+🚀 Turning real-world problems into practical software & AI-powered products<br><br>
+
+╭──────────────────────────────────────────────╮<br>
+│                 🌱 Currently                 │<br>
+╰──────────────────────────────────────────────╯<br><br>
+
+▸ 🔭 Building AI-powered products, full-stack applications & automation workflows<br>
+▸ 🌱 Exploring GenAI, LLMs, NLP, AI Agents & intelligent automation<br>
+▸ ⚙️ Creating automation workflows that turn repetitive tasks into smart solutions<br>
+▸ 🤝 Open to collaborating on AI/ML, Full-Stack, Backend & Automation projects<br><br>
+
+╭──────────────────────────────────────────────╮<br>
+│                 🛠️ Tech Stack               │<br>
+╰──────────────────────────────────────────────╯<br><br>
+
+▸ 💻 MERN • Java • Spring Boot • Python • JavaScript • SQL<br>
+▸ 🤖 AI/ML • GenAI • LLMs • NLP • AI Agents<br>
+▸ 🔗 REST APIs • Data Analysis • Automation • Playwright<br><br>
+
+╭──────────────────────────────────────────────╮<br>
+│                  💬 Let's Talk               │<br>
+╰──────────────────────────────────────────────╯<br><br>
+
+▸ AI/ML • Full-Stack Development • Java • MERN<br>
+▸ Automation • AI Agents • DSA<br><br>
+
+✨ Build • Automate • Experiment • Ship 🚀
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./tech-girl.png" width="100%" alt="Girl coding"/>
+
+</td>
+
+</tr>
+</table>              ✨ Build • Automate • Experiment • Ship 🚀
 
 
 ## 🌐 Socials:
