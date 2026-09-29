@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./tech-girl.png"
+<img src="./tech-girl-isha.png"
      width="560"
      height="660"
      alt="Isha Rai coding"/>
