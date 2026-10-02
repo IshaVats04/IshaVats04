@@ -4,7 +4,7 @@
 
 <img src="./tech-girl-isha.png"
      width="560"
-     height="660"
+     height="560"
      alt="Isha Rai coding"/>
 
 ### 👋 Hey, I'm Isha Rai!
@@ -121,4 +121,14 @@
 <a href="mailto:ishavats04@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🚀 Featured Projects
+
+### 📰 NewsPulse — Real-Time News Topic Clustering & Visual Timeline
+
+> AI-powered news intelligence platform that ingests news from multiple sources, groups related stories into coherent topic clusters, and presents how each story evolves over time.
+
+**Tech:** Python • NLP • JavaScript • REST APIs • Vercel • Render
+
+🔗 **[Live Demo](https://news-pulse-ochre.vercel.app/)**
+```
